@@ -1,7 +1,5 @@
----
-title: "[Getting and Cleaning Data](https://www.coursera.org/course/getdata) Project"
-output: html_document
----
+#[Getting and Cleaning Data](https://www.coursera.org/course/getdata) Project
+
 ## Overview
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
 The data linked from the course website represent data collected from the accelerometers from the 
